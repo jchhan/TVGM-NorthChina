@@ -3,6 +3,8 @@ This archive contains the degree 120 time-variable gravity field models over Nor
 
 Taking the model file diff_2013_04-2012_03.txt as an example, it means the gravity differences between the two campaigns in April 2013 and March 2012. The gravity differences are in microgal (10^{-8} m/s^2), and the grid interval is 0.1 degree.
 
-Cite as: J Han. (2020). jchhan/TVGM-NorthChina: First release of NC-IGP01T. (Version V1.0.2) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4295746
+Cite this dataset as: J Han. (2020). jchhan/TVGM-NorthChina: First release of NC-IGP01T. (Version V1.0.2) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4295746
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4295746.svg)](https://doi.org/10.5281/zenodo.4295746)
+
+A paper documenting the determination of these models is in press.
