@@ -5,7 +5,7 @@ Taking the model file diff_2013_04-2012_03.txt as an example, it means the gravi
 
 A paper documenting the determination of these models is in press.
 
-Cite this dataset as: Han, J, Chen, S, Lu, H, & Xu, W. (2020). First release of the time-variable gravity model over North China (NC-IGP01T). (Version V1.0.2) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4295746
+Cite this dataset as: Han, J., Chen, S., Lu, H., & Xu, W. (2020). First release of the time-variable gravity model over North China (NC-IGP01T). (Version V1.0.2) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4295746
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4295746.svg)](https://doi.org/10.5281/zenodo.4295746)
 
